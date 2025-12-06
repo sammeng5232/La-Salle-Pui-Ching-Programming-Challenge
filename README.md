@@ -1,1 +1,1 @@
-"# La-Salle---Pui-Ching-Programming-Challenge" 
+https://lscct.com/challenge/
